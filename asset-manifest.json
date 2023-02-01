@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cartoonpark/static/css/main.7c2aad82.css",
+    "main.js": "/cartoonpark/static/js/main.f8100c0a.js",
+    "index.html": "/cartoonpark/index.html",
+    "main.7c2aad82.css.map": "/cartoonpark/static/css/main.7c2aad82.css.map",
+    "main.f8100c0a.js.map": "/cartoonpark/static/js/main.f8100c0a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c2aad82.css",
+    "static/js/main.f8100c0a.js"
+  ]
+}
